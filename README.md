@@ -1,2 +1,2 @@
 # repo1
-this is demo 
+this is demo of git and github
